@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AllSettings>
+  <CommonSettings>
+    <Config Env="*" Role="*">
+      <Category name="AIVendor">
+        <Setting name="AIVendorSecret" value="$$__Secret__https://ppeautomationvault.vault.azure.net:443/secrets/AIVendorSecret__SecretValueText__$$" />
+        <Setting name="AIVendorCookie" value="$$__Secret__https://ppeautomationvault.vault.azure.net:443/secrets/AIVendorCookie__SecretValueText__$$" />
+      </Category>
+    </Config>
+  </CommonSettings>
+</AllSettings>
